@@ -45,7 +45,7 @@ const Footer = () => {
             <h2>Contact Us</h2>
             <ul>
               <li>70 Washington Square South, New York, NY 10012, United States </li>
-              <li>Email: purposework159@gmail.com</li>
+              <li>Email: abc@gmail.com</li>
               <li>Phone: +1 112325 456 780</li>
             </ul>
           </div>
